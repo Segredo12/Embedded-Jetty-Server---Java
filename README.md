@@ -1,4 +1,4 @@
-# Embedded-Jetty-Server---Java (w/GlassFish)
+# Jetty-Server---Java (w/GlassFish)
 
 ## Description:
 This is an Jetty Server example, using Maven project in Java. You're free to use it out.
